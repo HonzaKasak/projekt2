@@ -72,7 +72,7 @@ def hraj_hru():
         if bulls == 4:
             print(f"Správně, uhodl jsi číslo\nna {pokusy} pokusů!")
             print("-----------------------------------------------")
-            print("To je úžasné!")
+            print("Skvělá práce!")
             break
         else:
             print(vyhodnot_vystup(bulls, cows))
